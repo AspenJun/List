@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">List App</string>
+
+    <string-array name="items">
+        <item>TG</item>
+        <item>TC</item>
+        <item>Glu</item>
+    </string-array>
+
+    <string-array name="ranges">
+        <item>1.7mmol/L</item>
+        <item>2.9~~5.17mmol/L</item>
+        <item>3.9~~6.1mmol/L </item>
+    </string-array>
+
+    <string-array name="descriptions">
+        <item>Triglyceride </item>
+        <item>Serum Total Cholesterol</item>
+        <item>Blood Glucose</item>
+    </string-array>
+</resources>
